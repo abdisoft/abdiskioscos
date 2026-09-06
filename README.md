@@ -4,7 +4,6 @@
 
 <h1 align="center">AbdisKioscos</h1>
 
-https://www.youtube.com/watch?v=BAthkesDepM
 
 <p align="center">
   <strong>Punto de venta y gestión integral para kioscos, almacenes y comercios de cercanía en Argentina.</strong>
@@ -35,6 +34,20 @@ Descargá la versión adecuada para tu equipo desde la sección de [**Releases**
 Luego ejecutá el archivo descargado y seguí los pasos del instalador.
 
 > La aplicación funciona sin conexión a internet para las tareas diarias. Solo se recomienda conexión para actualizaciones y futuros módulos en línea.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BAthkesDepM" target="_blank">
+    <img
+      src="https://img.youtube.com/vi/BAthkesDepM/hqdefault.jpg"
+      alt="Ver demo de AbdisKioscos en YouTube"
+      width="640"
+    >
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://www.youtube.com/watch?v=BAthkesDepM">Ver demo de AbdisKioscos</a>
+</p>
 
 ## ¿Qué permite hacer?
 
