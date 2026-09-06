@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://abdisoft.com/images/logo-modo-claro.png" alt="AbdiSoft" width="320">
+  <img src="https://abdisoft.com/images/logo_fondo_color.jpg" alt="AbdiSoft" width="320">
 </p>
 
 <h1 align="center">AbdisKioscos</h1>
