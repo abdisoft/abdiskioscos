@@ -4,7 +4,7 @@
 
 <h1 align="center">AbdisKioscos</h1>
 <p align="center">
-  <img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/b333a026-6a85-4c70-b2ae-0a6394883555" />
+  <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/b333a026-6a85-4c70-b2ae-0a6394883555" />
 </p>
 
 
