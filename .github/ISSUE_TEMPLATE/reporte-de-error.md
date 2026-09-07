@@ -1,19 +1,10 @@
 ---
-name: Reporte de Bug
-about: Crea un informe para ayudarnos a mejorar
+name: Reporte de Error
+about: Informá un problema encontrado en AbdisKiosko
 title: ''
 labels: ''
 assignees: ''
 
----
-
-```md
----
-name: Reporte de error
-about: Informá un problema encontrado en AbdisKiosko
-title: "[BUG] "
-labels: bug
-assignees: ""
 ---
 
 ## Descripción del problema
@@ -72,4 +63,3 @@ Adjuntá, si es posible:
 ## Información adicional
 
 Agregá cualquier detalle que pueda ayudar a encontrar el problema: desde cuándo ocurre, frecuencia, cambios recientes, productos afectados o solución temporal utilizada.
-```
